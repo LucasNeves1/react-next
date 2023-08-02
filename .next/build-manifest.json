@@ -22,11 +22,6 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/basicos/eventos": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/basicos/eventos.js"
-    ],
     "/hooks/imagens": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
